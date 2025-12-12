@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+model/
+data/images/
+*.pth
+*.joblib
+.ipynb_checkpoints/
+.DS_Store
